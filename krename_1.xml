@@ -1,0 +1,2 @@
+<!DOCTYPE KRename>
+<KRename version="1.0"><FindReplaceList rows="3"><Row num="0"><RegularExpression>0</RegularExpression><Find>(</Find><ReplaceWith>_</ReplaceWith><ProcessTokens>0</ProcessTokens></Row><Row num="1"><RegularExpression>0</RegularExpression><Find>)</Find><ReplaceWith>_</ReplaceWith><ProcessTokens>0</ProcessTokens></Row><Row num="2"><RegularExpression>2</RegularExpression><Find> </Find><ReplaceWith></ReplaceWith><ProcessTokens>0</ProcessTokens></Row></FindReplaceList></KRename>
